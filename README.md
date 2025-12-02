@@ -10,7 +10,7 @@ I love creating things that are joyful, visually appealing, and useful — blend
 
 🎨 Passion: Colorful interfaces, visual storytelling, helpful tools
 
-🌍 Based in: Earth
+🌍 Based in: Denmark, Earth
 
 ✨ Motto: Make it pretty. Make it clear. Make it yours.
 
