@@ -1,4 +1,4 @@
-🌈 Hello, I’m Gre
+🌈 Hola, I’m **Gre**
 
 I build colorful, creative, and human-centered things in tech.
 
