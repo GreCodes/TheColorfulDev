@@ -3,6 +3,7 @@
 I build colorful, creative, and human-centered things in tech.
 
 <img src="./your-header.gif" width="100%" />
+
 🎨 About Me
 
 I love creating things that are joyful, visually appealing, and useful — blending design, technology, and fun.
