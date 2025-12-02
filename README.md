@@ -38,14 +38,11 @@ Preview	Hex
 	#FFC857
 🧰 Languages & Tools
 
-
-
-
-
-
-
-
-
+HTML/CSS
+JavaScript
+Python
+SQL
+BASH 
 
 📊 GitHub Stats
 
